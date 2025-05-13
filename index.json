@@ -30,9 +30,24 @@
     }
   },
   {
+    "path": "0x2506ead42c8c712BfA82481877D12748489612c8/profile.md",
+    "metadata": {
+      "name": "TwoFifty",
+      "external_profile_url": "https://forum.sky.money/t/blue-ad-recognition-submission/20915",
+      "address": "0x2506ead42c8c712BfA82481877D12748489612c8"
+    },
+    "metrics": {
+      "combined_participation": "No Data",
+      "poll_participation": "No Data",
+      "exec_participation": "No Data",
+      "communication": "No Data",
+      "start_date": "2023-10-09T00:00:00.000Z"
+    }
+  },
+  {
     "path": "0xcdc7c7f3e189c4d2d6fb3b2f5101b7e731d72a5c/profile.md",
     "metadata": {
-      "name": "Penguin Soldier",
+      "name": "Penguin Soldier (test)",
       "external_profile_url": "https://forum.makerdao.com/t/penguin-soldier-ad-recognition-submission/21395",
       "address": "0xcdc7c7f3e189c4d2d6fb3b2f5101b7e731d72a5c"
     },
