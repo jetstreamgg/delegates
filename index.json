@@ -30,6 +30,21 @@
     }
   },
   {
+    "path": "0xcdc7c7f3e189c4d2d6fb3b2f5101b7e731d72a5c/profile.md",
+    "metadata": {
+      "name": "Penguin Soldier",
+      "external_profile_url": "https://forum.makerdao.com/t/penguin-soldier-ad-recognition-submission/21395",
+      "address": "0xcdc7c7f3e189c4d2d6fb3b2f5101b7e731d72a5c"
+    },
+    "metrics": {
+      "combined_participation": "37.29%",
+      "poll_participation": "42.00%",
+      "exec_participation": "11.11%",
+      "communication": "15.79%",
+      "start_date": "2023-10-23T00:00:00.000Z"
+    }
+  },
+  {
     "path": "0xFc48fBcA739079aaB08216C4d5E506B96593753d/profile.md",
     "metadata": {
       "name": "Bonapublica",
